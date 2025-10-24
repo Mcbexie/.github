@@ -1,0 +1,16 @@
+```markdown
+# Security Policy
+
+## Supported Versions
+
+The table below outlines which versions of this project currently receive security updates.
+
+| Version | Supported          |
+| -------- | ------------------ |
+| 6.0.x    | :white_check_mark: |
+| 5.1.x    | :white_check_mark: |
+| 5.0.x    | :x:                |
+| 4.0.x    | :x:                |
+| < 4.0    | :x:                |
+
+## Reporting a Vulnerability
